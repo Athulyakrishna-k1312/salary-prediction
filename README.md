@@ -4,7 +4,7 @@ This project uses machine learning models to predict whether an employee earns m
 
 ## 📁 Dataset
 
-- **Source:** [adult 3.csv](https://github.com/Athulyakrishna-k1312/salary-prediction/blob/a3755f174db383e79462841b4e763a7f9a269b53/SalaryData.csv)
+- **Source:** [adult 3.csv](SalaryData.csv)
 - **Description:** Contains demographic and employment-related attributes (age, education, occupation, etc.) used for salary prediction.
 - **Target:** Whether income is `<=50K` or `>50K`.
 
