@@ -11,9 +11,9 @@ This project uses machine learning models to predict whether an employee earns m
 - ## ⚙️ Features Used
 
 - Age  
-- Education  
-- Occupation  
-- Hours-per-week  
+- Education level 
+- Job title 
+- Gender  
 - Years of experience  
 
 
@@ -52,7 +52,7 @@ This project includes a **Streamlit** app to classify employee salaries:
  
 ## 🌐 Live App
 
-🔗 [Click here to try it online](https://salary-predictor-cvfpndnysxwgbibtgtmpmc.streamlit.app/)
+🔗 [Click here to try it online](https://salary-prediction-bdyrkzvznddn7mhww7kzmg.streamlit.app/)
 
 ---
 
